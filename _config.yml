@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matt Faltyn"
 title_separator          : "-"
 name                     : &name "Matt (Mateusz) Faltyn"
-description              : &description "personal description"
+description              : &description "My professional website and portfolio"
 url                      : https://mattfaltyn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mattfaltyn/mattfaltyn.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matt Faltyn"
   avatar           : "profile.png"
-  bio              : "I’m an Applied Mathematics Master’s student at the University of British Columbia interested in applying machine learning and statistical methods to computational neuroscience and genetics. I earned an Honours Bachelor of Arts & Science and Mathematics degree from McMaster University in 2021."
+  bio              : "♦ Blockchain Researcher ♦ lleTTonna Founder ♦ Open Source Developer ♦ Math MSc Student"
   location         : "Vancouver, Canada"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Faltyn+M&cauthor_id=33538536"
