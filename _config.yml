@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matt Faltyn"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I’m an Applied Mathematics Master’s student at the University of British Columbia interested in applying machine learning and statistical methods to computational neuroscience and genetics. I earned an Honours Bachelor of Arts & Science and Mathematics degree from McMaster University in 2021."
   location         : "Vancouver, Canada"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Faltyn+M&cauthor_id=33538536"
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Vancouver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
