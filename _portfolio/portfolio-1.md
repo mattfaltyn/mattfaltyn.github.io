@@ -1,6 +1,6 @@
 ---
 title: "Comparing ODE and LSTM-RNN Modeling Formalisms with HIV-Antibody Viral Dynamics Data"
-excerpt: "In this paper, we aim to train and evaluate several LSTM-RNN models in the task of predicting HIV viral dynamics using a synthetic dataset generated from running simulations of the PLCM. <br/><img src='/images/500x300.png'>"
+excerpt: "In this paper, we aim to train and evaluate several LSTM-RNN models in the task of predicting HIV viral dynamics using a synthetic dataset generated from running simulations of the PLCM. <br/><img src='/images/RNN1'>"
 collection: portfolio
 ---
 
