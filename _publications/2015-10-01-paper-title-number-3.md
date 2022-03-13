@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Evolution and Nomenclature of the Trimethoprim Resistant Dihydrofolate (dfr) Reductases"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2019-05-08-paper-1
+excerpt: 'With the increasing use of genome sequencing as a surveillance tool for molecular epidemiology of antimicrobial resistance (AMR), databases and clear nomenclature for AMR gene families are critical. Due to the convoluted nomenclatural history of the integron-associated trimethoprim-resistant dihydrofolatereductase (dfr) gene family, we decided to conduct a literature review, comparative sequence analysis, and phylogenetic investigation of the dfr family, the results of which are presented here and available at the Comprehensive Antibiotic Resistance Database (CARD). Overall, literature review and phylogenetic analysis resolved gene name synonyms based on sequence. We recommend adoption of phylogenetic methods to help guide AMR gene naming efforts and relegation of misleading names to synonyms.'
+date: 2019-05-08
+venue: 'Preprints'
+paperurl: 'https://www.preprints.org/manuscript/201905.0137/v1'
+citation: 'Faltyn, M.; Alcock, B.; McArthur, A. Evolution and Nomenclature of the Trimethoprim Resistant Dihydrofolate (dfr) Reductases. Preprints 2019, 2019050137 (doi: 10.20944/preprints201905.0137.v1).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+With the increasing use of genome sequencing as a surveillance tool for molecular epidemiology of antimicrobial resistance (AMR), databases and clear nomenclature for AMR gene families are critical. Due to the convoluted nomenclatural history of the integron-associated trimethoprim-resistant dihydrofolatereductase (dfr) gene family, we decided to conduct a literature review, comparative sequence analysis, and phylogenetic investigation of the dfr family, the results of which are presented here and available at the Comprehensive Antibiotic Resistance Database (CARD). Overall, literature review and phylogenetic analysis resolved gene name synonyms based on sequence. We recommend adoption of phylogenetic methods to help guide AMR gene naming efforts and relegation of misleading names to synonyms.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.preprints.org/manuscript/201905.0137/v1)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Faltyn, M.; Alcock, B.; McArthur, A. Evolution and Nomenclature of the Trimethoprim Resistant Dihydrofolate (dfr) Reductases. Preprints 2019, 2019050137 (doi: 10.20944/preprints201905.0137.v1).
