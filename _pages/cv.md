@@ -15,45 +15,88 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+Classes
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## University of British Columbia
+### Master of Science in Mathematics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#### Winter 2022
+- EECE 571G – Blockchain Software Engineering
+- MATH 560 – Mathematical Biology
+- MATH 605D – Causal Inference and Graphical Models
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#### Fall 2021
+- EECE 571B – Foundations of Blockchain and Distributed Ledger
+- EECE 571C – Blockchain and Distributed Ledger Graduate Pro-Seminar
+
+
+
+## University of Toronto
+### Non-Degree Visiting Student
+
+#### Summer 2020
+- MAT301H1 – Groups & Symmetry
+- MAT334H1 – Complex Variables
+- MAT337H1 – Introduction to Real Analysis
+
+
+
+## McMaster University
+### Honours Bachelor of Arts & Science and Mathematics
+
+#### Winter 2021
+- ARTSSCI 3A06B – Literature
+- ARTSSCI 3EH3 – Exploring Hamilton Inquiry
+- ARTSSCI 4C06B – Thesis
+- MATH 3CY3 – Cryptography
+- MATH 3FF3 – Partial Differential Equations
+
+#### Fall 2020
+- ARTSSCI 3A06A – Literature
+- ARTSSCI 3CL3 – Theatre, Self, and Society
+- ARTSSCI 4C06A – Thesis
+- MATH 3GR3 – Abstract Algebra
+- MATH 4A03 – Real Analysis II
+- MATH 4W03 – Readings in Mathematics
+
+#### Winter 2020
+- ARTSSCI 3S03 – East Asian Religious Tradition
+- MATH 2C03 – Introduction to Differential Equations
+- MATH 2R03 – Linear Algebra II
+- MATH 2XX3 – Advanced Calculus II
+- STATS 3DS3 – Introduction to Data Science Theory
+
+#### Fall 2019
+- ARTSSCI 4CD3 – Research and Creative Writing
+- MATH 1B03 – Linear Algebra I
+- MATH 2X03 – Advanced Calculus I
+- PHYSICS 2G03 – Scientifi c Computing
+- STATS 2D03 – Introduction to Probability
+
+#### Winter 2019
+- ARTSSCI 2A06B – Social and Political Thought
+- ARTSSCI 2D06B – Physics
+- ARTSSCI 2R03 – Applied Statistical Inference
+- CLASSICS 2MT3 – Ancient Roots of Medical Terminology
+- PSYCH1XX3 – Foundations of Psychology, Neuroscience & Behaviour
+
+#### Fall 2018
+- ARTSSCI 2A06A – Social and Political Thought
+- ARTSSCI 2D06A – Physics
+- ARTSSCI 2E03 – Economics
+- BIOLOGY 1A03 – Cell & Molecular Biology
+- PSYCH 1X03 – Introduction to Psychology, Neuroscience, & Behaviour
+
+#### Winter 2018
+- ARTSSCI 1A06B – Practices of Knowledge
+- ARTSSCI 1BB3 – Argumentation
+- ARTSSCI 1CC3 – Indigenous Ways of Knowing: Theory
+- ARTSSCI 1D06B – Calculus
+- CHEM 1AA3 – Introduction to Chemistry II
+
+#### Fall 2017
+- ARTSSCI 1A06A – Practices of Knowledge
+- ARTSSCI 1B03 – Writing
+- ARTSSCI 1C03 – Inquiry: Global Challenges
+- ARTSSCI 1D06A – Calculus
+- CHEM 1A03 – Introduction to Chemistry I
