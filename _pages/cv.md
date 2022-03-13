@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.Arts Sc. (Honours) in Mathematics, McMaster University, 2021
-* M.Sc. in Applied Mathematics, University of British Columbia, 2023 (expected)
+* B.Arts Sc. (Honours) and Mathematics, McMaster University, 2021
+* M.Sc. in Mathematics, University of British Columbia, 2023 (expected)
 
 Classes
 ======
-## University of British Columbia
-### Master of Science in Mathematics
+### University of British Columbia - Master of Science in Mathematics
 
 #### Winter 2022
 - EECE 571G – Blockchain Software Engineering
@@ -30,8 +29,7 @@ Classes
 
 
 
-## University of Toronto
-### Non-Degree Visiting Student
+### University of Toronto - Non-Degree Visiting Student
 
 #### Summer 2020
 - MAT301H1 – Groups & Symmetry
@@ -40,8 +38,7 @@ Classes
 
 
 
-## McMaster University
-### Honours Bachelor of Arts & Science and Mathematics
+### McMaster University - Honours Bachelor of Arts & Science and Mathematics
 
 #### Winter 2021
 - ARTSSCI 3A06B – Literature
