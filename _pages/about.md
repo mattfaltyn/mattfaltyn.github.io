@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Matt and I solving problems at the intersection of the biomedical, computer, and mathematical sciences. My interest in biomedical research began when I first entered the [Arts & Science Undergraduate Program](https://artsci.mcmaster.ca/) at [McMaster University](https://www.mcmaster.ca/) in Hamilton, Canada. After the first three semesters in the program, I decided to pursue my growing interest in mathematics and statistics. I earned an Honours Bachelor of Arts & Science and Mathematics degree from McMaster University in 2021.
+Hello! My name is Matt and I enjoy solving problems at the intersection of the biomedical, computer, and mathematical sciences. My interest in biomedical research started back when I entered the [Arts & Science Undergraduate Program](https://artsci.mcmaster.ca/) at [McMaster University](https://www.mcmaster.ca/) in hopes of entering medical school post-graduation. After the first three semesters, I decided to pursue my growing interest in mathematics and combine in the Mathematics Program (similar to a double-degree). I earned an Honours Bachelor of Arts & Science and Mathematics degree from McMaster University in 2021.
 
 I’m an Applied Mathematics Master’s student at the University of British Columbia interested in applying machine learning and statistical methods to biomedical data. 
 
