@@ -1,6 +1,6 @@
 ---
 title: "ODE vs LSTM-RNN: Modeling HIV Viral Dynamics"
-excerpt: "In this paper, we aim to train and evaluate several LSTM-RNN models in the task of predicting HIV viral dynamics using a synthetic dataset generated from running simulations of the PLCM. <br/><img src='https://github.com/mattfaltyn/MATH-560/blob/main/project/Figures/Flowchart.jpeg'>"
+excerpt: "We train and evaluate several Long Short-Term Memory-Recurrent Neural Network models in the task of predicting HIV viral dynamics using a synthetic dataset generated from running simulations of a phagocytosis based logistic clearance model. <br/><img src='https://github.com/mattfaltyn/MATH-560/blob/main/project/Figures/Flowchart.jpeg'>"
 collection: portfolio
 ---
 
