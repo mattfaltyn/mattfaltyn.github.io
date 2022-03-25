@@ -29,56 +29,54 @@ redirect_from:
 
 ## Research Peer-Reviewed Publications  
 
-10/21 	Tsai et al. Evaluating the effectiveness and quality of mobile applications for perinatal depression and anxiety: A systematic review and meta-analysis. Journal of Affective Disorders. 2021 [Published].
+10/21 - Tsai et al. Evaluating the effectiveness and quality of mobile applications for perinatal depression and anxiety: A systematic review and meta-analysis. Journal of Affective Disorders. 2021 [Published].
 
-09/21 	Sharma et al. In vivo assessment of prostate cancer response using quantitative ultrasound characterization of ultrasonic scattering properties. BMC Cancer. 2021 [Published].
+09/21 - Sharma et al. In vivo assessment of prostate cancer response using quantitative ultrasound characterization of ultrasonic scattering properties. BMC Cancer. 2021 [Published].
 
-05/21 	Sharma et al. Quantitative ultrasound characterization of therapy response in prostate cancer in vivo. American Journal of Translational Research. 2021 [Published].
+05/21 - Sharma et al. Quantitative ultrasound characterization of therapy response in prostate cancer in vivo. American Journal of Translational Research. 2021 [Published].
 
-02/21	Faltyn et al. Exploring Links Between Prenatal Adversity and Adolescent Psychiatric Risk in a Canadian Population-Based Sample. Journal of Developmental & Behavioral Pediatrics. 2020 [Published].
+02/21 - Faltyn et al. Exploring Links Between Prenatal Adversity and Adolescent Psychiatric Risk in a Canadian Population-Based Sample. Journal of Developmental & Behavioral Pediatrics. 2020 [Published].
 
 10/20 - Owais et al. Psychopathology in the Offspring of Indigenous Parents with Mental Health Challenges: A Systematic Review. The Canadian Journal of Psychiatry. 2020 [Published].
 
-06/20	- Faltyn et al. Psychological Problems in Parents of Children and Adolescents with Chronic Pain: A Systematic Review and Meta-Analysis. Psychology, Health & Medicine. 2020 [Published].
+06/20 - Faltyn et al. Psychological Problems in Parents of Children and Adolescents with Chronic Pain: A Systematic Review and Meta-Analysis. Psychology, Health & Medicine. 2020 [Published].
 
 3/20 - Owais et al. The Perinatal Mental Health of Indigenous Women: A Systematic Review and Meta-Analysis. Canadian Journal of Psychiatry. 2020 [Published].	
 
 1/20 - Alcock et al. CARD 2020: Antibiotic Resistome Surveillance with the Comprehensive Antibiotic Resistance Database. Nucleic Acids Research. 2020 [Published].
 
 
-### RESEARCH PREPRINT PUBLICATIONS 
+## Research Preprint Publications 
 
-05/19	Faltyn et al. Evolution and Nomenclature of the Trimethoprim Resistant Dihydrofolate (dfr) Reductases. Preprints. 2019 [Published].
-
-
-RESEARCH POSTER PRESENTATIONS 
-
-10/19	Faltyn, M.; Savoy, C.; Van Lieshout, R. J. (2019, October). Prenatal Adversity and Adolescent Psychiatric Risk: A Test of the Cumulative Risk Hypothesis. CADDRA 6th Annual ADHD Research Day, Toronto, ON.
-
-05/19	Faltyn, M.; Savoy, C.; Van Lieshout, R. J. (2019, May). Prenatal Adversity and Adolescent Psychiatric Risk: A Test of the Cumulative Risk Hypothesis. Department of Psychiatry & Behavioural Neurosciences 31st Annual Research Day, Hamilton, ON.
-
-05/19	Owais, S.; Faltyn, M.; Jonshon, A.; Downey, B.; Kates, N.; Van Lieshout, R. J. (2019, May). Perinatal Mental Health Problems Among Indigenous Women: A Systematic Review and Meta-Analysis. Department of Psychiatry & Behavioural Neurosciences 31st Annual Research Day, Hamilton, ON.	
+05/19 - Faltyn et al. Evolution and Nomenclature of the Trimethoprim Resistant Dihydrofolate (dfr) Reductases. Preprints. 2019 [Published].
 
 
-NON-RESEARCH PUBLICATIONS 
+## Research Poster Presentations 
 
-2021	Bitcoin Cryptography: Simply Explained
+10/19 - Faltyn, M.; Savoy, C.; Van Lieshout, R. J. (2019, October). Prenatal Adversity and Adolescent Psychiatric Risk: A Test of the Cumulative Risk Hypothesis. CADDRA 6th Annual ADHD Research Day, Toronto, ON.
 
-2019	The Whitney Lab: Investigating Microbe-Microbe Interactions
+05/19 - Faltyn, M.; Savoy, C.; Van Lieshout, R. J. (2019, May). Prenatal Adversity and Adolescent Psychiatric Risk: A Test of the Cumulative Risk Hypothesis. Department of Psychiatry & Behavioural Neurosciences 31st Annual Research Day, Hamilton, ON.
 
-2019	Resistance: Evolution and the Environment
-
-
-IN THE PRESS
-
-2019	Improving Indigenous Maternal Health | McMaster Brighter World
-
-2019	Indigenous Women More Likely to have Mental Health Issues around Birth of Baby: Study | McMaster Faculty of Health Sciences 
-
-2018	A Little Off the Top | The Hamilton Spectator  
+05/19 - Owais, S.; Faltyn, M.; Jonshon, A.; Downey, B.; Kates, N.; Van Lieshout, R. J. (2019, May). Perinatal Mental Health Problems Among Indigenous Women: A Systematic Review and Meta-Analysis. Department of Psychiatry & Behavioural Neurosciences 31st Annual Research Day, Hamilton, ON.	
 
 
-GRANTS, SCHOLARSHIPS, AND ACADEMIC AWARDS
+## Non-Research Publications 
+
+2021 - [Bitcoin Cryptography: Simply Explained](https://github.com/MattFaltyn/Bitcoin-Cryptography-Simply-Explained)
+
+2019 - [The Whitney Lab: Investigating Microbe-Microbe Interactions](https://iidr.mcmaster.ca/the-whitney-lab-investigating-microbe-microbe-interactions/)
+
+2019 - [Resistance: Evolution and the Environment](https://iidr.mcmaster.ca/resistance-evolution-and-the-environment/)
+
+
+## In The Press
+
+2019 - [Improving Indigenous Maternal Health | McMaster Brighter World](https://brighterworld.mcmaster.ca/articles/indigenous-women-more-likely-to-have-mental-health-issues-around-birth-of-baby-study/)
+
+2018 - [A Little Off the Top | The Hamilton Spectator](https://www.sachem.ca/news-story/9044986-a-little-off-the-top-cuts-for-a-compelling-cause/)  
+
+
+Grants, Scholarships, and Academic Awards
 
 2021               Canada Graduate Scholarships – Master's Award ($17500)
 
