@@ -78,7 +78,7 @@ redirect_from:
 
 ## Grants, Scholarships, and Academic Awards
 
-2021 - Mitacs Accelerate ($60,000)
+2022 - Mitacs Accelerate ($60,000)
 
 2021 - Canada Graduate Scholarships – Master's Award ($17,500)
 
