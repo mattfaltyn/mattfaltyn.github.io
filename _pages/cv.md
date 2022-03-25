@@ -76,27 +76,29 @@ redirect_from:
 2018 - [A Little Off the Top | The Hamilton Spectator](https://www.sachem.ca/news-story/9044986-a-little-off-the-top-cuts-for-a-compelling-cause/)  
 
 
-Grants, Scholarships, and Academic Awards
+## Grants, Scholarships, and Academic Awards
 
-2021               Canada Graduate Scholarships – Master's Award ($17500)
+2021 - Mitacs Accelerate ($60,000)
+
+2021 - Canada Graduate Scholarships – Master's Award ($17,500)
 
 2020 - The University Senate Scholarship ($800)
 
-2020                         Arts & Science Undergraduate Student Research Award (USRA) ($7500)
+2020 - Arts & Science Undergraduate Student Research Award (USRA) ($7,500)
 
-2019                         Canadian Polish Millennium Fund Grant ($600)
+2019 - Canadian Polish Millennium Fund Grant ($600)
 
-2019                         Kids' Brain Health Network (KBHN) Student/Trainee Award ($500) 
+2019 - Kids' Brain Health Network (KBHN) Student/Trainee Award ($500) 
 
-2019                         Life Sciences Ontario Scholarship and Mentorship Program ($4000)
+2019 - Life Sciences Ontario Scholarship and Mentorship Program ($4,000)
 
-2018                         Canadian Polish Millennium Fund Grant ($200) 
+2018 - Canadian Polish Millennium Fund Grant ($200) 
 
-2018                         McMaster Students Union Research Elective Grant ($250)
+2018 - McMaster Students Union Research Elective Grant ($250)
 
-2017                         McMaster University President’s Award Entrance Scholarship ($2500)	
+2017 - McMaster University President’s Award Entrance Scholarship ($2,500)	
 
-2017                         The Canadian Medical Hall of Fame Scholarship ($4000) 
+2017 - The Canadian Medical Hall of Fame Scholarship ($4,000) 
 
 
 CERTIFICATES 
