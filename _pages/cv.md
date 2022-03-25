@@ -136,15 +136,15 @@ redirect_from:
 
 ## Work Experience
 
-### [Blockware Solutions](https://www.blockwaresolutions.com/)
-- 04/21-09/21
-- Blockchain Developer
-- Implementing Discreet Log Contracts (DLCs) on the Bitcoin Core and Lightning Networks. 
+### [Aquanow](https://www.aquanow.io/)
+- 01/22-Pres.
+- Blockchain Researcher
+- Conducting research on blockchain protocols and projects in relation to company goals. 
 
 ### [Blockware Solutions](https://www.blockwaresolutions.com/)
 - 04/21-09/21
 - Blockchain Developer
-- Implementing Discreet Log Contracts (DLCs) on the Bitcoin Core and Lightning Networks. 
+- Developing internal and consumer-facing software products. 
 
 ### [Statistics Canada – McMaster Research Data Centre](https://socialsciences.mcmaster.ca/statistics-canada-research-data-centre-rdc-at-mcmaster)
 - 09/19-04/21
