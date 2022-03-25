@@ -174,35 +174,35 @@ redirect_from:
 
 ## Volunteer Experience
 
-09/18-04/21 	 The IMPACT Initiative
-	 Student Co-Leader – Dr. Lovaye Kajiura
-	 http://www.impactinitiatives.ca/	
-•	Engaging with undergraduate and graduate students from various Faculties, McMaster alumni, healthcare partners, and real clients to understand and address challenges experienced by people living with disabilities
+### [The IMPACT Initiative](http://www.impactinitiatives.ca/)
+- 09/18-04/21
+- Student Co-Leader – Dr. Lovaye Kajiura
+- Engaging with undergraduate and graduate students from various Faculties, McMaster alumni, healthcare partners, and real clients to understand and address challenges experienced by people living with disabilities
 
-09/17-04/21 	 McMaster University – Psychiatry and Behavioural Neurosciences
-	 Research Analyst - Dr. Ryan Van Lieshout	
-	 https://psychiatry.mcmaster.ca/directory/bio/ryan-j-van-lieshout
-•	Incorporating computational and statistical techniques into perinatal and child psychiatric research.
+### [McMaster University – Psychiatry and Behavioural Neurosciences](https://psychiatry.mcmaster.ca/directory/bio/ryan-j-van-lieshout)
+- 09/17-04/21
+- Research Analyst - Dr. Ryan Van Lieshout
+- Incorporating computational and statistical techniques into perinatal and child psychiatric research.
 
-09/17-05/20 	 McMaster Smiling Over Sickness
- Vice-President External
- 		    http://www.sosmcmaster.com/
-•	Raising over $20,000 annually towards local and national organizations that align with our vision, while our 1100+ dedicated volunteers collectively perform over 20,000 hours of community service every year to help bring joy and support for patients and their families at McMaster Children's Hospital, Ronald McDonald House, and YMCA Les Chater.
+### [McMaster Smiling Over Sickness](http://www.sosmcmaster.com/)
+- 09/17-05/20
+- Vice-President External
+- Raising over $20,000 annually towards local and national organizations that align with our vision, while our 1100+ dedicated volunteers collectively perform over 20,000 hours of community service every year to help bring joy and support for patients and their families at McMaster Children's Hospital, Ronald McDonald House, and YMCA Les Chater.
 
-09/18-05/19	 McMaster University – Biochemistry and Biomedical Sciences
-	 Research Volunteer – Dr. Andrew McArthur
-	 https://mcarthurbioinformatics.ca/?page_id=2	
-•	Examining and editing nomenclature in the Comprehensive Antibiotic Resistance Database, a curated resource that provides references for DNA and protein sequences, detection models and bioinformatics tools on the molecular basis of bacterial antimicrobial resistance. 
+### [McMaster University – Biochemistry and Biomedical Sciences](https://mcarthurbioinformatics.ca/)
+- 09/18-05/19
+- Research Volunteer – Dr. Andrew McArthur
+- Examining and editing nomenclature in the Comprehensive Antibiotic Resistance Database, a curated resource that provides references for DNA and protein sequences, detection models and bioinformatics tools on the molecular basis of bacterial antimicrobial resistance. 
 
-09/19-02/20	 Model City Hall
-	 Webmaster
-	 https://modelcityhall.org/	
-•	Creating, updating, and maintaining the website of Model City Hall, a federally registered Canadian non-profit (986688-4) dedicated to encouraging youth involvement in municipal politics. 
+### [Model City Hall](https://modelcityhall.org/)
+- 09/19-02/20
+- Webmaster
+- Creating, updating, and maintaining the website of Model City Hall, a federally registered Canadian non-profit (986688-4) dedicated to encouraging youth involvement in municipal politics. 
 
-09/18-05/19 	 STEM Fellowship
-	 Scholarly Writing Workshop Developer
-	 http://stemfellowship.org/	
-•	 Developing and delivering scientific scholarly writing workshops for high school and undergraduate students 
+### [STEM Fellowship](http://stemfellowship.org/)
+- 09/18-05/19
+- Scholarly Writing Workshop Developer
+- Developing and delivering scientific scholarly writing workshops for high school and undergraduate students 
 
 09/18-05/19	 Pediatric Emergency Medicine McMaster Research Enrichment Program (PEMMREP)
 	 Student Volunteer – Division of Pediatric Emergency Medicine  
