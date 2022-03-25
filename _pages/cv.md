@@ -166,7 +166,7 @@ redirect_from:
 - Summer Intern
 - Collaborating with physicians and office managers to ensure that the family health team and clinic are operating effectively.
 
-### Sporting Life Inc. 
+### [Sporting Life Inc.](https://www.sportinglife.ca/) 
 - 10/14-09/16
 - Sales Associate 
 - Negotiating with cliental, leading to sales of over $250,000 worth of footwear annually.
