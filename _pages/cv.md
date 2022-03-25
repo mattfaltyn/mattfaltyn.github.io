@@ -151,28 +151,28 @@ redirect_from:
 - USRA Summer Student – Dr. Ryan Van Lieshout
 - Developing Machine Learning software to predict psychiatric diagnoses from survey data in the 2014 Ontario Child Health Study.
 
-09/19-05/20 	 The IMPACT Initiative – MacPherson Institute
-	 MacPherson Student Partner – Dr. Lovaye Kajiura
-	 http://www.impactinitiatives.ca/
-•	Leading a focus group research study on the benefits of participation in the IMPACT Initiative, a large scale collaboration that encompasses over 1500 participants: students, faculty, healthcare partners, and real community clients. 
+### [The IMPACT Initiative – MacPherson Institute](http://www.impactinitiatives.ca/)
+- 09/19-05/20
+- MacPherson Student Partner – Dr. Lovaye Kajiura
+- Leading a focus group research study on the benefits of participation in the IMPACT Initiative, a large scale collaboration that encompasses over 1500 participants: students, faculty, healthcare partners, and real community clients. 
 
-05/18-08/18  	 Sunnybrook Health Sciences Centre – Odette Cancer Centre
-	 Summer Research Intern – Dr. Gregory Czarnota
-	 https://sunnybrook.ca/research/team/member.asp?page=172&m=51
-•	Performing preclinical experiments on animal models such as mice and rabbits, to which cancer cells were introduced. Following tumor growth, ultrasound-stimulating microbubble therapy in conjunction with hyperthermia therapy was used to decrease tumor vasculature.
+### [Sunnybrook Health Sciences Centre – Odette Cancer Centre](https://sunnybrook.ca/research/team/member.asp?page=172&m=51)
+- 05/18-08/18
+- Summer Research Intern – Dr. Gregory Czarnota
+- Performing preclinical experiments on animal models such as mice and rabbits, to which cancer cells were introduced. Following tumor growth, ultrasound-stimulating microbubble therapy in conjunction with hyperthermia therapy was used to decrease tumor vasculature.
 
-06/17-08/17  	OakMed Family Health Team 
-	 Summer Intern
-	 https://oakmed.ca/
-•	Collaborating with physicians and office managers to ensure that the family health team and clinic are operating effectively.
+### [OakMed Family Health Team](https://oakmed.ca/) 
+- 06/17-08/17
+- Summer Intern
+- Collaborating with physicians and office managers to ensure that the family health team and clinic are operating effectively.
 
-10/14-09/16     	Sporting Life Inc. 
-                             Sales Associate
-	 https://www.sportinglife.ca/en-CA/homepage
-•	 Negotiating with cliental, leading to sales of over $250,000 worth of footwear annually.
+### Sporting Life Inc. 
+- 10/14-09/16
+- Sales Associate 
+- Negotiating with cliental, leading to sales of over $250,000 worth of footwear annually.
 
 
-VOLUNTEER EXPERIENCE
+## Volunteer Experience
 
 09/18-04/21 	 The IMPACT Initiative
 	 Student Co-Leader – Dr. Lovaye Kajiura
