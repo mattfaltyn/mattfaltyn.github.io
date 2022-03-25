@@ -138,7 +138,12 @@ redirect_from:
 
 ### [Blockware Solutions](https://www.blockwaresolutions.com/)
 - 04/21-09/21
-- Software Developer
+- Blockchain Developer
+- Implementing Discreet Log Contracts (DLCs) on the Bitcoin Core and Lightning Networks. 
+
+### [Blockware Solutions](https://www.blockwaresolutions.com/)
+- 04/21-09/21
+- Blockchain Developer
 - Implementing Discreet Log Contracts (DLCs) on the Bitcoin Core and Lightning Networks. 
 
 ### [Statistics Canada – McMaster Research Data Centre](https://socialsciences.mcmaster.ca/statistics-canada-research-data-centre-rdc-at-mcmaster)
@@ -202,29 +207,29 @@ redirect_from:
 ### [STEM Fellowship](http://stemfellowship.org/)
 - 09/18-05/19
 - Scholarly Writing Workshop Developer
-- Developing and delivering scientific scholarly writing workshops for high school and undergraduate students 
+- Developing and delivering scientific scholarly writing workshops for high school and undergraduate students.
 
 ### [Pediatric Emergency Medicine McMaster Research Enrichment Program (PEMMREP)](https://fhs.mcmaster.ca/pediatrics/emergency_medicine.html)
 - 09/18-05/19
 - Student Volunteer – Division of Pediatric Emergency Medicine  
-- Interacting and recruiting patients for research studies in the Department of Emergency Medicine 
+- Interacting and recruiting patients for research studies in the Department of Emergency Medicine.
 
 ### [St. Joseph's Healthcare Hamilton](https://psychiatry.mcmaster.ca/directory/bio/juliana-tobon) 
 - 09/17-05/18
 - Research Volunteer – Dr. Juliana Tobon
-- Preparing source data for computer entry by compiling and sorting information in the Youth Wellness Centre
+- Preparing source data for computer entry by compiling and sorting information in the Youth Wellness Centre.
 
 ### [McMaster Creating Leadership Amongst Youth](https://msumcmaster.ca/service/)
 - 05/18
 - Leadership Developer 
-- Leading breakout sessions for groups of 10-12 delegates during conference weekend 
+- Leading breakout sessions for groups of 10-12 delegates during conference weekend. 
 
 ### [Offord Centre for Child Studies](https://offordcentre.com/)
 - 09/17-1/18
 - Communications Volunteer 
-- Entering and verifying scientific publications and research data into the Offord Centre for Child Studies website 
+- Entering and verifying scientific publications and research data into the Offord Centre for Child Studies website.
 
 ### The Hospital for Sick Children 
 - 07/16-08/16
 - Child Life Volunteer
-- Assessing the physical, social and emotional responses of the child and family in order to improve hospital experience for said child in the Orthopedic Unit/General Surgery Units
+- Assessing the physical, social and emotional responses of the child and family in order to improve hospital experience for said child in the Orthopedic Unit/General Surgery Units.
