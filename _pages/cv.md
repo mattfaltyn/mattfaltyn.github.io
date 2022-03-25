@@ -71,9 +71,9 @@ redirect_from:
 
 ## In The Press
 
-2019 - [Improving Indigenous Maternal Health | McMaster Brighter World](https://brighterworld.mcmaster.ca/articles/indigenous-women-more-likely-to-have-mental-health-issues-around-birth-of-baby-study/)
+2019 - [Improving Indigenous Maternal Health @ McMaster Brighter World](https://brighterworld.mcmaster.ca/articles/indigenous-women-more-likely-to-have-mental-health-issues-around-birth-of-baby-study/)
 
-2018 - [A Little Off the Top | The Hamilton Spectator](https://www.sachem.ca/news-story/9044986-a-little-off-the-top-cuts-for-a-compelling-cause/)  
+2018 - [A Little Off the Top @ The Hamilton Spectator](https://www.sachem.ca/news-story/9044986-a-little-off-the-top-cuts-for-a-compelling-cause/)  
 
 
 ## Grants, Scholarships, and Academic Awards
