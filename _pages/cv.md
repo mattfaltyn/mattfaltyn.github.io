@@ -229,7 +229,7 @@ redirect_from:
 - Communications Volunteer 
 - Entering and verifying scientific publications and research data into the Offord Centre for Child Studies website.
 
-### The Hospital for Sick Children 
+### [The Hospital for Sick Children](https://www.sickkids.ca/en/care-services/support-services/child-life/) 
 - 07/16-08/16
 - Child Life Volunteer
 - Assessing the physical, social and emotional responses of the child and family in order to improve hospital experience for said child in the Orthopedic Unit/General Surgery Units.
