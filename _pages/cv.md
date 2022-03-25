@@ -101,11 +101,17 @@ redirect_from:
 2017 - The Canadian Medical Hall of Fame Scholarship ($4,000) 
 
 
-CERTIFICATES 
+## Certificates 
 
-2019                        Professional Certificate in Data Science – HarvardX University
+2022 - Ethereum and Solidity: The Complete Developer's Guide – Udemy
+
+2021 - The Complete JavaScript Course 2022: From Zero to Expert! – Udemy
+
+2021 - The Complete Web Developer Course 2.0 – Udemy
+
+2019 - Professional Certificate in Data Science – HarvardX University
  
-
+ 
 
 ## Entrepreneurial Initiatives
 
