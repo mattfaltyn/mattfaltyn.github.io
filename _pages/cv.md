@@ -204,33 +204,27 @@ redirect_from:
 - Scholarly Writing Workshop Developer
 - Developing and delivering scientific scholarly writing workshops for high school and undergraduate students 
 
-09/18-05/19	 Pediatric Emergency Medicine McMaster Research Enrichment Program (PEMMREP)
-	 Student Volunteer – Division of Pediatric Emergency Medicine  
-	 https://fhs.mcmaster.ca/pediatrics/emergency_medicine.html	
-•	Interacting and recruiting patients for research studies in the Department of Emergency Medicine 
+### [Pediatric Emergency Medicine McMaster Research Enrichment Program (PEMMREP)](https://fhs.mcmaster.ca/pediatrics/emergency_medicine.html)
+- 09/18-05/19
+- Student Volunteer – Division of Pediatric Emergency Medicine  
+- Interacting and recruiting patients for research studies in the Department of Emergency Medicine 
 
-09/17-05/18 	 St. Joseph's Healthcare Hamilton 
-	 Research Volunteer – Dr. Juliana Tobon
-	 https://psychiatry.mcmaster.ca/directory/bio/juliana-tobon	
-•	Preparing source data for computer entry by compiling and sorting information in the Youth Wellness Centre
+### [St. Joseph's Healthcare Hamilton](https://psychiatry.mcmaster.ca/directory/bio/juliana-tobon) 
+- 09/17-05/18
+- Research Volunteer – Dr. Juliana Tobon
+- Preparing source data for computer entry by compiling and sorting information in the Youth Wellness Centre
 
-05/18	 McMaster Creating Leadership Amongst Youth
-	 Leadership Developer 
-	 https://www.msumcmaster.ca/services-directory/1-clay-conference
-•	Leading breakout sessions for groups of 10-12 delegates during conference weekend 
+### [McMaster Creating Leadership Amongst Youth](https://msumcmaster.ca/service/)
+- 05/18
+- Leadership Developer 
+- Leading breakout sessions for groups of 10-12 delegates during conference weekend 
 
-09/17-1/18	 Offord Centre for Child Studies
-	 Communications Volunteer 
-	 https://offordcentre.com/
-•	Entering and verifying scientific publications and research data into the Offord Centre for Child Studies website 
+### [Offord Centre for Child Studies](https://offordcentre.com/)
+- 09/17-1/18
+- Communications Volunteer 
+- Entering and verifying scientific publications and research data into the Offord Centre for Child Studies website 
 
-07/16-08/16	 The Hospital for Sick Children 
-     		 Child Life Volunteer
-		 http://www.sickkids.ca/patient-family-resources/Child-Life/index.html
-•	Assessing the physical, social and emotional responses of the child and family in order to improve hospital experience for said child in the Orthopedic Unit/General Surgery Units
-
-	 Neonatology Shadow-Student – Dr. Patrick McNamara
-	 https://uichildrens.org/patrick-j-mcnamara
-•	Shadowing Neonatologist Dr. Patrick McNamara in the Hospital for Sick Children’s Neonatal Intensive Care Unit
-![image](https://user-images.githubusercontent.com/76570855/160053249-8c7cd7c7-adf9-40db-9579-dd65f3c9b259.png)
-
+### The Hospital for Sick Children 
+- 07/16-08/16
+- Child Life Volunteer
+- Assessing the physical, social and emotional responses of the child and family in order to improve hospital experience for said child in the Orthopedic Unit/General Surgery Units
