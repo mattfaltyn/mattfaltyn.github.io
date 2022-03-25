@@ -136,20 +136,20 @@ redirect_from:
 
 ## Work Experience
 
-04/21-09/21	Blockware Solutions
-	Software Developer
-https://www.blockwaresolutions.com/ 
-•	Implementing Discreet Log Contracts (DLCs) on the Bitcoin Core and Lightning Networks. 
+### [Blockware Solutions](https://www.blockwaresolutions.com/)
+- 04/21-09/21
+- Software Developer
+- Implementing Discreet Log Contracts (DLCs) on the Bitcoin Core and Lightning Networks. 
 
-09/19-04/21	Statistics Canada – McMaster Research Data Centre
-	Research Analyst – Dr. Ryan Van Lieshout
-https://socialsciences.mcmaster.ca/statistics-canada-research-data-centre-rdc-at-mcmaster
-•	Developing a machine learning model using the 2014 Ontario Child Health Study dataset to predict mental illness in children and adolescents.
+### [Statistics Canada – McMaster Research Data Centre](https://socialsciences.mcmaster.ca/statistics-canada-research-data-centre-rdc-at-mcmaster)
+- 09/19-04/21
+- Research Analyst – Dr. Ryan Van Lieshout
+- Developing a machine learning model using the 2014 Ontario Child Health Study dataset to predict mental illness in children and adolescents.
 
-05/20-08/20	McMaster University
-	USRA Summer Student – Dr. Ryan Van Lieshout
-	https://psychiatry.mcmaster.ca/directory/bio/ryan-j-van-lieshout
-•	Developing Machine Learning software to predict psychiatric diagnoses from survey data in the 2014 Ontario Child Health Study.
+### [McMaster University](https://psychiatry.mcmaster.ca/directory/bio/ryan-j-van-lieshout)
+- 05/20-08/20
+- USRA Summer Student – Dr. Ryan Van Lieshout
+- Developing Machine Learning software to predict psychiatric diagnoses from survey data in the 2014 Ontario Child Health Study.
 
 09/19-05/20 	 The IMPACT Initiative – MacPherson Institute
 	 MacPherson Student Partner – Dr. Lovaye Kajiura
