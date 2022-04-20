@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# University of British Columbia
+## University of British Columbia
 ### Master of Science in Mathematics
 
 #### Winter 2022
