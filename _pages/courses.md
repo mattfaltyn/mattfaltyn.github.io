@@ -62,7 +62,7 @@ redirect_from:
 - ARTSSCI 4CD3 – Research and Creative Writing
 - MATH 1B03 – Linear Algebra I
 - MATH 2X03 – Advanced Calculus I
-- PHYSICS 2G03 – Scientifi c Computing
+- PHYSICS 2G03 – Scientific Computing
 - STATS 2D03 – Introduction to Probability
 
 #### Winter 2019
