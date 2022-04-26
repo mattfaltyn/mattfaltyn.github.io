@@ -14,18 +14,12 @@ redirect_from:
 ### University of British Columbia 
 - 09/21-Pres.
 - Master of Science in Mathematics (Applied Mathematics)
-- Canada Graduate Scholarships – Master's Recipient
+- Cumulative GPA: 4.0 on a 4-point scale
 
 ### McMaster University
 - 09/17-05/21
 - Honours Bachelor of Arts & Science and Mathematics
 - Cumulative GPA: 4.0 on a 4-point scale
-
-### Philip Pocock Secondary School
-- 09/13-06/17
-- Final overall Grade 12 average in top 6 courses: 97.67%
-- Award of Excellence (over 90% average all 4 years)
-
 
 ## Research Peer-Reviewed Publications  
 
@@ -131,7 +125,7 @@ redirect_from:
 ### Stimulating Undergraduate Research and Growth through community Engagement (SURGE)
 - 01/19–05/20
 - Founder and President – McMaster Student’s Union Club
-- Creating and managing an interdisciplinary team of 15 Senior executive members, 80 junior executive members, and 300+ general members with the vision of making research engagement at McMaster University more accessible to the undergraduate student body
+- Creating and managing an interdisciplinary team of 15 Senior executive members, 80 junior executive members, and 300+ general members with the vision of making research engagement at McMaster University more accessible to the undergraduate student body.
 
 
 ## Work Experience
