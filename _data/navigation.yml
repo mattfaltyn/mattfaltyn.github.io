@@ -21,5 +21,8 @@ main:
   - title: "Courses"
     url: /courses/
     
+  - title: "MIT Challenge"
+    url: /mit-challenge/
+    
  #- title: "Guide"
  #  url: /markdown/
