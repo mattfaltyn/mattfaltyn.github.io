@@ -17,3 +17,8 @@ Fast-forward to today and I am a Master of Science in Mathematics (Applied Mathe
 Outside of my work in academia, I currently work in a [digital asset infrastructure provider](https://www.aquanow.io/) as a Blockchain Researcher. I previously worked in a [Bitcoin mining company](https://www.blockwaresolutions.com/), a [federal government agency](https://www.statcan.gc.ca/en/start), as well as founded my own e-health [organization](https://llettonna.com/). 
 
 One of my professional goals is to conduct meaningful research while completing a Ph.D. in bioinformatics or a closely related field. Having conducted interdisciplinary work with collaborators of diverse backgrounds, I find that most difficult problems with potential for positive impact capture my interest given enough time and training.
+
+When I am not working, I enjoy long-distance running. I am proud to have completed the following races:
+- 2017 Scotiabank Toronto Waterfront Half-Marathon
+- 2018 Scotiabank Toronto Waterfront Marathon
+- 2022 BMO Vancouver Marathon (in training)
