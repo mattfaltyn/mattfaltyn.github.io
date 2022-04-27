@@ -57,3 +57,34 @@ Matt's Review:
 
 Matt's Review:
 
+
+### 6.035 Computer Language Engineering
+- Instructor(s): Prof. Saman Amarasinghe & Prof. Martin Rinard
+- Term: Spring 2010
+- Status: Not Started
+
+Matt's Review:
+
+
+### 6.046[J] Design and Analysis of Algorithms
+- Instructor(s): Prof. Erik Demaine & Prof. Srini Devadas & Prof. Nancy Lynch
+- Term: Spring 2015
+- Status: Not Started
+
+Matt's Review:
+
+
+### 6.820 Fundamentals of Program Analysis
+- Instructor(s): Prof. Armando Solar-Lezama
+- Term: Fall 2015
+- Status: Not Started
+
+Matt's Review:
+
+
+### 6.814 Database Systems
+- Instructor(s): Prof. Samuel Madden & Prof. Robert Morris & Prof. Michael Stonebraker & Dr. Carlo Curino
+- Term: Fall 2010
+- Status: Not Started
+
+Matt's Review:
