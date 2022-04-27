@@ -7,3 +7,53 @@ During my formal training in mathematics, I spent some time writing and analyzin
 I am embarking on this journey to accomplish one major objective: develop a thorough understanding of algorithms and data structures. From reviewing the MIT computer science curriculum and comparing it to my university transcript, I believe that the main gap in my understanding of computer science is precisely these two concepts. 
 
 Listed below are the 12 classes I will be taking. For each of these classes, I will create and publish a 5-10 page (excluding images and references) summary of the course material.
+
+## Learning Progress (0/12):
+
+### 6.042[J] Mathematics for Computer Science
+- Instructor(s): Prof. Albert R. Meyer & Prof. Adam Chlipala
+- Term: Spring 2015
+- Status: Started
+
+Matt's Review:
+
+
+### 6.004 Computation Structures
+- Instructor(s): Prof. Chris Terman
+- Term: Spring 2017
+- Status: Not Started
+
+Matt's Review:
+
+
+### 6.005 Software Construction
+- Instructor(s): Prof. Robert Miller & Dr. Max Goldman
+- Term: Spring 2016
+- Status: Not Started
+
+Matt's Review:
+
+
+### 6.006 Introduction to Algorithms
+- Instructor(s): Prof. Erik Demaine & Dr. Jason Ku & Prof. Justin Solomon
+- Term: Spring 2020
+- Status: Not Started
+
+Matt's Review:
+
+
+### 6.172 Performance Engineering of Software Systems
+- Instructor(s): Prof. Charles Leiserson & Prof. Julian Shun
+- Term: Fall 2018
+- Status: Not Started
+
+Matt's Review:
+
+
+### 6.033 Computer Systems Engineering
+- Instructor(s): Dr. Katrina LaCurts
+- Term: Spring 2018
+- Status: Not Started
+
+Matt's Review:
+
