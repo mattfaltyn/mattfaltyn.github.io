@@ -88,3 +88,19 @@ Matt's Review:
 - Status: Not Started
 
 Matt's Review:
+
+
+### 6.854J Advanced Algorithms
+- Instructor(s): Prof. Michel Goemans
+- Term: Fall 2008
+- Status: Not Started
+
+Matt's Review:
+
+
+### 6.851 Advanced Data Structures
+- Instructor(s): Prof. Erik Demaine
+- Term: Spring 2012
+- Status: Not Started
+
+Matt's Review:
