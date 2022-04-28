@@ -22,6 +22,7 @@ Listed below are the 12 classes I will be taking. For each of these classes, I w
 ### 6.042[J]: Mathematics for Computer Science
 - Instructor(s): Prof. Albert R. Meyer & Prof. Adam Chlipala
 - Term: Spring 2015
+- Start date: April 27, 2022
 - Status: Started
 
 Matt's Review:
