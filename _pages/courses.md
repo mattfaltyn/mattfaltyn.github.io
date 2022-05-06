@@ -12,6 +12,16 @@ redirect_from:
 ## University of British Columbia
 ### Master of Science in Mathematics
 
+#### Winter 2023
+- STAT 540 – Statistical Methods for High Dimensional Biology
+- MEDG 505 - Genome Analysis
+
+#### Fall 2022
+- MATH 561 – Mathematics of Infectious Diseases and Immunology
+
+#### Summer 2022
+- Math 549 - Thesis
+
 #### Winter 2022
 - EECE 571G – Blockchain Software Engineering
 - MATH 560 – Mathematical Biology
