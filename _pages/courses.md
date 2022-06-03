@@ -13,11 +13,11 @@ redirect_from:
 ### Master of Science in Mathematics
 
 #### Winter 2023
-- STAT 540 – Statistical Methods for High Dimensional Biology
-- MEDG 505 - Genome Analysis
+- MATH 605D – Tensor Decompositions and Applications
 
 #### Fall 2022
 - MATH 561 – Mathematics of Infectious Diseases and Immunology
+- MATH 563 – Mathematical Cell Biology
 
 #### Summer 2022
 - Math 549 - Thesis
