@@ -34,7 +34,10 @@ Listed below are the 12 classes I will be covering. For each of these classes, I
 ### 6.004: Computation Structures
 - Instructor(s): Prof. Chris Terman
 - Term: Spring 2017
-- Status: Not Started
+- Start date: May 15, 2022
+- Completion date: TBD
+- Project: TBD
+- Status: In Progress
 
 Matt's Review:
 
