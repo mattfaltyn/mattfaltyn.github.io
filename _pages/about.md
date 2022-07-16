@@ -18,6 +18,6 @@ Outside of my work in academia, I currently work in a [digital asset infrastruct
 
 One of my professional goals is to conduct meaningful research while completing a PhD in formal verification of neural networks. Having conducted interdisciplinary work with collaborators of diverse backgrounds, I find that most difficult problems with potential for positive impact capture my interest given enough time and training.
 
-When I am not working, I enjoy long-distance running and walking. I am proud to have completed the following races:
+When I am not working, I enjoy watching the NBA, anime, as well as long-distance running and walking. I am proud to have completed the following races:
 - 2017 Scotiabank Toronto Waterfront Half-Marathon
 - 2018 Scotiabank Toronto Waterfront Marathon
