@@ -16,7 +16,7 @@ Fast-forward to today and I am a Master of Science in Mathematics (Applied Mathe
 
 Outside of my work in academia, I currently work in a [digital asset infrastructure provider](https://www.aquanow.io/). I previously worked in a [Bitcoin mining company](https://www.blockwaresolutions.com/), a [federal government agency](https://www.statcan.gc.ca/en/start), as well as founded my own e-health [organization](https://llettonna.com/). 
 
-One of my professional goals is to conduct meaningful research while completing a PhD in formal verification of neural networks. Having conducted interdisciplinary work with collaborators of diverse backgrounds, I find that most difficult problems with potential for positive impact capture my interest given enough time and training.
+One of my professional goals is to conduct meaningful research while completing a PhD in neuro-symbolic AI. Having conducted interdisciplinary work with collaborators of diverse backgrounds, I find that most difficult problems with potential for positive impact capture my interest given enough time and training.
 
 When I am not working, I enjoy watching the NBA and anime, as well as long-distance running and walking. I am proud to have completed the following races:
 - 2017 Scotiabank Toronto Waterfront Half-Marathon
