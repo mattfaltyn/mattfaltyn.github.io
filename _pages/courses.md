@@ -12,12 +12,10 @@ redirect_from:
 ## University of British Columbia
 ### Master of Science in Mathematics
 
-#### Winter 2023
-- MATH 605D – Tensor Decompositions and Applications
-
 #### Fall 2022
 - MATH 561 – Mathematics of Infectious Diseases and Immunology
 - MATH 563 – Mathematical Cell Biology
+- MATH 605D – Tensor Decompositions and Applications
 
 #### Summer 2022
 - Math 549 - Thesis
