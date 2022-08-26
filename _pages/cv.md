@@ -12,7 +12,11 @@ redirect_from:
 ## Education	
 
 ### University of British Columbia 
-- 09/21-Pres.
+- 09/23-08/26 (Expected)
+- Doctor of Philosophy in Bioinformatics
+
+### University of British Columbia 
+- 09/21-05/23 (Expected)
 - Master of Science in Mathematics (Applied Mathematics)
 - Cumulative GPA: 4.0 on a 4-point scale
 
@@ -22,6 +26,8 @@ redirect_from:
 - Cumulative GPA: 4.0 on a 4-point scale
 
 ## Research Peer-Reviewed Publications  
+
+05/22 - Beals et al. Cyclic Vomiting Syndrome in the Emergency Department: A 10-Year Review of Clinical Presentation and Management. Pediatric Emergency Care. 2022 [Published].
 
 10/21 - Tsai et al. Evaluating the effectiveness and quality of mobile applications for perinatal depression and anxiety: A systematic review and meta-analysis. Journal of Affective Disorders. 2021 [Published].
 
@@ -97,6 +103,8 @@ redirect_from:
 
 ## Certificates 
 
+2022 - Neuro-Symbolic AI Essentials – IBM
+
 2022 - Ethereum and Solidity: The Complete Developer's Guide – Udemy
 
 2021 - The Complete JavaScript Course 2022: From Zero to Expert! – Udemy
@@ -112,12 +120,10 @@ redirect_from:
 ### [lleTTonna](https://llettonna.com/)
 - 12/19-Pres.
 - Founder 
-- Leading the development of lleTTonna. Our vision is to contribute to creating a world where all mothers and their families thrive throughout pregnancy and the postpartum period.
 
 ### One Home One Node
 - 12/19-04/21
 - Blockchain Analyst 
-- Conducting on-chain analyses on Bitcoin Core.
 
 
 ## Community Initiatives  
@@ -125,50 +131,40 @@ redirect_from:
 ### Stimulating Undergraduate Research and Growth through community Engagement (SURGE)
 - 01/19–05/20
 - Founder and President – McMaster Student’s Union Club
-- Creating and managing an interdisciplinary team of 15 Senior executive members, 80 junior executive members, and 300+ general members with the vision of making research engagement at McMaster University more accessible to the undergraduate student body.
-
 
 ## Work Experience
 
 ### [Aquanow](https://www.aquanow.io/)
 - 01/22-Pres.
 - Blockchain Researcher
-- Conducting research on blockchain protocols and projects in relation to company goals. 
 
 ### [Blockware Solutions](https://www.blockwaresolutions.com/)
 - 04/21-09/21
 - Blockchain Developer
-- Developing internal and consumer-facing software products. 
 
 ### [Statistics Canada – McMaster Research Data Centre](https://socialsciences.mcmaster.ca/statistics-canada-research-data-centre-rdc-at-mcmaster)
 - 09/19-04/21
 - Research Analyst – Dr. Ryan Van Lieshout
-- Developing a machine learning model using the 2014 Ontario Child Health Study dataset to predict mental illness in children and adolescents.
 
 ### [McMaster University](https://psychiatry.mcmaster.ca/directory/bio/ryan-j-van-lieshout)
 - 05/20-08/20
 - USRA Summer Student – Dr. Ryan Van Lieshout
-- Developing Machine Learning software to predict psychiatric diagnoses from survey data in the 2014 Ontario Child Health Study.
 
 ### [The IMPACT Initiative – MacPherson Institute](http://www.impactinitiatives.ca/)
 - 09/19-05/20
 - MacPherson Student Partner – Dr. Lovaye Kajiura
-- Leading a focus group research study on the benefits of participation in the IMPACT Initiative, a large scale collaboration that encompasses over 1500 participants: students, faculty, healthcare partners, and real community clients. 
 
 ### [Sunnybrook Health Sciences Centre – Odette Cancer Centre](https://sunnybrook.ca/research/team/member.asp?page=172&m=51)
 - 05/18-08/18
 - Summer Research Intern – Dr. Gregory Czarnota
-- Performing preclinical experiments on animal models such as mice and rabbits, to which cancer cells were introduced. Following tumor growth, ultrasound-stimulating microbubble therapy in conjunction with hyperthermia therapy was used to decrease tumor vasculature.
 
 ### [OakMed Family Health Team](https://oakmed.ca/) 
 - 06/17-08/17
 - Summer Intern
-- Collaborating with physicians and office managers to ensure that the family health team and clinic are operating effectively.
 
 ### [Sporting Life Inc.](https://www.sportinglife.ca/) 
 - 10/14-09/16
 - Sales Associate 
-- Negotiating with cliental, leading to sales of over $250,000 worth of footwear annually.
 
 
 ## Volunteer Experience
@@ -176,54 +172,43 @@ redirect_from:
 ### [The IMPACT Initiative](http://www.impactinitiatives.ca/)
 - 09/18-04/21
 - Student Co-Leader – Dr. Lovaye Kajiura
-- Engaging with undergraduate and graduate students from various Faculties, McMaster alumni, healthcare partners, and real clients to understand and address challenges experienced by people living with disabilities
 
 ### [McMaster University – Psychiatry and Behavioural Neurosciences](https://psychiatry.mcmaster.ca/directory/bio/ryan-j-van-lieshout)
 - 09/17-04/21
 - Research Analyst - Dr. Ryan Van Lieshout
-- Incorporating computational and statistical techniques into perinatal and child psychiatric research.
 
 ### [McMaster Smiling Over Sickness](http://www.sosmcmaster.com/)
 - 09/17-05/20
 - Vice-President External
-- Raising over $20,000 annually towards local and national organizations that align with our vision, while our 1100+ dedicated volunteers collectively perform over 20,000 hours of community service every year to help bring joy and support for patients and their families at McMaster Children's Hospital, Ronald McDonald House, and YMCA Les Chater.
 
 ### [McMaster University – Biochemistry and Biomedical Sciences](https://mcarthurbioinformatics.ca/)
 - 09/18-05/19
 - Research Volunteer – Dr. Andrew McArthur
-- Examining and editing nomenclature in the Comprehensive Antibiotic Resistance Database, a curated resource that provides references for DNA and protein sequences, detection models and bioinformatics tools on the molecular basis of bacterial antimicrobial resistance. 
 
 ### [Model City Hall](https://modelcityhall.org/)
 - 09/19-02/20
 - Webmaster
-- Creating, updating, and maintaining the website of Model City Hall, a federally registered Canadian non-profit (986688-4) dedicated to encouraging youth involvement in municipal politics. 
 
 ### [STEM Fellowship](http://stemfellowship.org/)
 - 09/18-05/19
 - Scholarly Writing Workshop Developer
-- Developing and delivering scientific scholarly writing workshops for high school and undergraduate students.
 
 ### [Pediatric Emergency Medicine McMaster Research Enrichment Program (PEMMREP)](https://fhs.mcmaster.ca/pediatrics/emergency_medicine.html)
 - 09/18-05/19
 - Student Volunteer – Division of Pediatric Emergency Medicine  
-- Interacting and recruiting patients for research studies in the Department of Emergency Medicine.
 
 ### [St. Joseph's Healthcare Hamilton](https://psychiatry.mcmaster.ca/directory/bio/juliana-tobon) 
 - 09/17-05/18
 - Research Volunteer – Dr. Juliana Tobon
-- Preparing source data for computer entry by compiling and sorting information in the Youth Wellness Centre.
 
 ### [McMaster Creating Leadership Amongst Youth](https://msumcmaster.ca/service/)
 - 05/18
 - Leadership Developer 
-- Leading breakout sessions for groups of 10-12 delegates during conference weekend. 
 
 ### [Offord Centre for Child Studies](https://offordcentre.com/)
 - 09/17-1/18
 - Communications Volunteer 
-- Entering and verifying scientific publications and research data into the Offord Centre for Child Studies website.
 
 ### [The Hospital for Sick Children](https://www.sickkids.ca/en/care-services/support-services/child-life/) 
 - 07/16-08/16
 - Child Life Volunteer
-- Assessing the physical, social and emotional responses of the child and family in order to improve hospital experience for said child in the Orthopedic Unit/General Surgery Units.
