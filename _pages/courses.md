@@ -14,7 +14,7 @@ redirect_from:
 
 #### Fall 2022
 - MATH 561 – Mathematics of Infectious Diseases and Immunology
-- MATH 563 – Mathematical Cell Biology
+- Math 612D – Optimal Transport and Single Cell Analysis
 - MATH 605D – Tensor Decompositions and Applications
 
 #### Summer 2022
