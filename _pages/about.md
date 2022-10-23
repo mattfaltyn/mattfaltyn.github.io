@@ -16,7 +16,7 @@ Fast-forward to today and I am a Master of Science in Mathematics (Applied Mathe
 
 Outside of my work in academia, I currently work in a [digital asset infrastructure provider](https://www.aquanow.io/). I previously worked in a [Bitcoin mining company](https://www.blockwaresolutions.com/), a [federal government agency](https://www.statcan.gc.ca/en/start), as well as founded my own e-health [organization](https://llettonna.com/). 
 
-One of my professional goals is to conduct meaningful research while completing a PhD in neuro-symbolic AI. I am joining [Dr. Carl de Boer's](https://deboer.bme.ubc.ca/) research group in the School of Biomedical Engineering at the University of British Columbia in September 2023 to work on interpretable and data-efficient neuro-symbolic AI omics applications.
+One of my professional goals is to conduct meaningful research while completing a PhD in Neuro-Symbolic AI (NSAI). I am joining [Dr. Carl de Boer's](https://deboer.bme.ubc.ca/) research group in the School of Biomedical Engineering at the University of British Columbia in September 2023 to work on interpretable and data-efficient NSAI omics applications.
 
 When I am not working, I enjoy watching the NBA and anime, as well as long-distance running and walking. I am proud to have completed the following races:
 - 2017 Scotiabank Toronto Waterfront Half-Marathon
