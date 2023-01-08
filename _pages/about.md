@@ -8,16 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Matt and I enjoy solving problems at the intersection of the biomedical, computational, and mathematical sciences. My interest in biomedical research began when I entered the [Arts & Science Undergraduate Program](https://artsci.mcmaster.ca/) at [McMaster University](https://www.mcmaster.ca/) in hopes of entering medical school. After the first three semesters, I decided to pursue my growing interest in mathematics and combined my Arts & Science program with the Mathematics program (similar to a double major). I earned an Honours Bachelor of Arts & Science and Mathematics degree from McMaster University in 2021.
+✔️ Head of Blockchain Research at Aquanow with experience leading technical blockchain R&D projects, partnerships, and investments.
 
-Fast-forward to today and I am a Master of Science in Mathematics (Applied Mathematics) student at the [University of British Columbia](https://www.ubc.ca/) under the supervision of [Dr. Elina Robeva](https://personal.math.ubc.ca/~erobeva/index.html) in the [Department of Mathematics](https://www.math.ubc.ca/home) and the [Institute for Applied Mathematics](https://www.iam.ubc.ca/). My current research focuses on tensor decomposition applications to convolutional neural networks. In addition to my work in the biomedical sciences, I am a student in the Graduate Pathway on Blockchain and Decentralized Trust Technologies Training Program in [Blockchain@UBC](https://blockchain.ubc.ca/) where I use deep learning techniques to generate insights from blockchain data.
+✔️ Co-Founder of TrainCheck.ai with experience auditing and building robust machine learning systems.
 
-<br/><img src="/images/venn.png" style="width:90%;">
+✔️ Bioinformatics PhD student in the De Boer Lab at the University of British Columbia. 
 
-Outside of my work in academia, I currently work in a [digital asset infrastructure provider](https://www.aquanow.io/). I previously worked in a [Bitcoin mining company](https://www.blockwaresolutions.com/), a [federal government agency](https://www.statcan.gc.ca/en/start), as well as founded my own e-health [organization](https://llettonna.com/). 
+🔨 Strong software development and testing skills demonstrated by the development and maintenance of software applications valued at over $3 million USD. 
 
-One of my professional goals is to conduct meaningful research while completing a PhD in Neuro-Symbolic AI (NSAI). I am joining [Dr. Carl de Boer's](https://deboer.bme.ubc.ca/) research group in the School of Biomedical Engineering at the University of British Columbia in September 2023 to work on interpretable and data-efficient NSAI omics applications.
+🔨 Core technical skills: 
 
-When I am not working, I enjoy watching the NBA and anime, as well as long-distance running and walking. I am proud to have completed the following races:
-- 2017 Scotiabank Toronto Waterfront Half-Marathon
-- 2018 Scotiabank Toronto Waterfront Marathon
+- Python (Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch, tinygrad)
+- R (ggplot2, data.table, dplyr, tidyr, Mlr, Caret)
+- Rust (rusty-data, ndarray, nalgebra, autograd, SmartCore, bio)
+- Machine learning algorithms and tools
+- Deep learning architectures
+- Cloud computing (AWS & GCP) 
+- SQL
+- Git (Github)
+- Linux
+
+📖Excellent technical communication skills demonstrated by 11 scientific publications and over 1,400 citations.
+
+📧 Email: faltynm $%AT%$ student. ubc . ca
