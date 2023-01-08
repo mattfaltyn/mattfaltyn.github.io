@@ -32,4 +32,4 @@ redirect_from:
 
 📧 Email: faltynm $%AT%$ student. ubc . ca
 
-![](https://github.com/mattfaltyn/mattfaltyn.github.io/blob/master/images/diagram.png)
+![](images/diagram.png)
