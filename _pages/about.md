@@ -31,3 +31,5 @@ redirect_from:
 📖Excellent technical communication skills demonstrated by 11 scientific publications and over 1,400 citations.
 
 📧 Email: faltynm $%AT%$ student. ubc . ca
+
+<img src="https://github.com/mattfaltyn/mattfaltyn.github.io/blob/master/images/diagram.png" width=75% height=75%>
