@@ -32,4 +32,4 @@ redirect_from:
 
 📧 Email: faltynm $%AT%$ student. ubc . ca
 
-![Diagram](images/diagram.png)
+![](images/diagram.png)
