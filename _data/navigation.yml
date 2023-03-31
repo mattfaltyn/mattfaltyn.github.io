@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
     
 #  - title: "Portfolio"
 #   url: /portfolio/
@@ -21,8 +21,8 @@ main:
  # - title: "Courses"
  #   url: /courses/
     
-  - title: "MIT Challenge"
-    url: /mit-challenge/
+ # - title: "MIT Challenge"
+ #   url: /mit-challenge/
     
  #- title: "Guide"
  #  url: /markdown/
