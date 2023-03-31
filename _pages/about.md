@@ -30,6 +30,4 @@ redirect_from:
 
 📖Excellent technical communication skills demonstrated by 11 scientific publications and over 1,400 citations.
 
-📧 Email: faltynm $%AT%$ student. ubc . ca
-
 ![](images/diagram.png)
