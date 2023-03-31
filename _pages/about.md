@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+While I provide a brief overview of my professional roles, skills, and achievements below, please consider the following first: 
+
+I intentionally keep this website minimalistic to promote contacting me directly regarding inquiries or opportunities. If you are looking for a candidate who fits your cookie-cutter job description, please do not waste your time or mine and move on to more traditional applicants. 
+
+For those who have never met me before: **I get it done**. I continue to be an individual that teams rely on to complete critical projects and objectives. I have been offered promotions to leadership positions at 100% of my past and current workplaces. If you or your business have serious technical problems, I can provide non-trivial value to your team. 
+
+If, after reading the above, you are interested in connecting with me, please email me to schedule a virtual or in-person meeting. 
+
 ![](images/diagram.png)
 
 ✔️ Head of Blockchain Research at [Aquanow](https://www.aquanow.io/) with experience leading technical blockchain R&D projects, partnerships, and investments.
