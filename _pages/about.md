@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![](images/diagram.png)
+
 ✔️ Head of Blockchain Research at Aquanow with experience leading technical blockchain R&D projects, partnerships, and investments.
 
 ✔️ Co-Founder of TrainCheck.ai with experience auditing and building robust machine learning systems.
@@ -29,5 +31,3 @@ redirect_from:
 - Linux
 
 📖Excellent technical communication skills demonstrated by 11 scientific publications and over 1,400 citations.
-
-![](images/diagram.png)
