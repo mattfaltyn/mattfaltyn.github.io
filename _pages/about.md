@@ -10,11 +10,11 @@ redirect_from:
 
 ![](images/diagram.png)
 
-✔️ Head of Blockchain Research at Aquanow with experience leading technical blockchain R&D projects, partnerships, and investments.
+✔️ Head of Blockchain Research at [Aquanow](https://www.aquanow.io/) with experience leading technical blockchain R&D projects, partnerships, and investments.
 
-✔️ Co-Founder of TrainCheck.ai with experience auditing and building robust machine learning systems.
+✔️ Co-Founder of [TrainCheck.ai](https://traincheck.buzzsprout.com/) with experience auditing and building robust machine learning systems.
 
-✔️ Bioinformatics PhD student in the De Boer Lab at the University of British Columbia. 
+✔️ Bioinformatics PhD student in the [De Boer Lab](https://deboer.bme.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/). 
 
 🔨 Strong software development and testing skills demonstrated by the development and maintenance of software applications valued at over $3 million USD. 
 
