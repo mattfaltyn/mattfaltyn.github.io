@@ -10,7 +10,7 @@ redirect_from:
 
 While I provide a brief overview of my professional roles, skills, and achievements below, please consider the following first: 
 
-I intentionally keep this website minimalistic to promote contacting me directly regarding inquiries or opportunities. If you are looking for a candidate who fits your cookie-cutter job description, please do not waste your time or mine and move on to more traditional applicants. 
+I intentionally keep this website minimalistic to promote contacting me directly regarding inquiries or opportunities. If you are looking for a candidate who fits a cookie-cutter job description (regardless of role), please do not waste your time or mine and move on to more traditional applicants. 
 
 For those who have never met me before: **I get it done**. I continue to be an individual that teams rely on to complete critical projects and objectives. I have been offered promotions to leadership positions at 100% of my past and current workplaces. If you or your business have serious technical problems, I can provide non-trivial value to your team. 
 
