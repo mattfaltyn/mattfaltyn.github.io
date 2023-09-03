@@ -29,7 +29,7 @@ redirect_from:
 - Familiarity with Deep Learning architectures.
 - Proficient in Cloud Computing (AWS & GCP), SQL, Git (Github), and Linux.
 
-📚 **Excellent technical communication skills** demonstrated through authorship in 13 scientific publications and recognition with over 1,800 citations.
+📚 **Excellent technical communication skills** demonstrated through authorship in 13 scientific publications and recognition with over 2,000 citations.
 
 
 ## My Three Obsessions: Measurement, Compression, and Paradoxical Tension
