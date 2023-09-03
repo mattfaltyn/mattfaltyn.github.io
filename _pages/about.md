@@ -14,7 +14,7 @@ redirect_from:
 
 🔬 Currently serving as the **Head of Blockchain Research** at [Aquanow](https://www.aquanow.io/), demonstrating proficiency in spearheading technical blockchain R&D projects, managing partnerships, and directing strategic investments.
 
-🚀 **Co-Founder** of [TrainCheck.ai](https://traincheck.buzzsprout.com/), where I lead the open-sourcing of clinical risk data, research, and assessment tools.
+🚀 **Co-Founder** of [TrainCheck.ai](https://traincheck.ai), where I lead the open-sourcing of clinical risk data, research, and assessment tools.
 
 🎓 Actively pursuing a **PhD in Bioinformatics** in the distinguished [De Boer Lab](https://deboer.bme.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
 
