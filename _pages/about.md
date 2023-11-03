@@ -12,9 +12,9 @@ redirect_from:
 
 ![](images/diagram.png)
 
-🔬 Currently serving as the **Head of Blockchain Research** at [Aquanow](https://www.aquanow.io/), demonstrating proficiency in spearheading technical blockchain R&D projects, managing partnerships, and directing strategic investments.
-
 🚀 **Executive Director** of [TrainCheck.ai](https://www.traincheck.ai/), where I help pre-medical and medical students achieve their research objectives.
+
+🔬 Currently serving as the **Head of Blockchain Research** at [Aquanow](https://www.aquanow.io/), demonstrating proficiency in spearheading technical blockchain R&D projects, managing partnerships, and directing strategic investments.
 
 🎓 Actively pursuing a **PhD in Bioinformatics** in the distinguished [De Boer Lab](https://deboer.bme.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
 
