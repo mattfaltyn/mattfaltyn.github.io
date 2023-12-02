@@ -12,7 +12,7 @@ redirect_from:
 
 ![](images/diagram.png)
 
-🚀 **Executive Director** of [TrainCheck.ai](https://www.traincheck.ai/), where I help pre-medical and medical students achieve their research objectives.
+🚀 **Executive Director** of [TrainCheck.ai](https://www.traincheck.ai/), where I help academic labs analyze their clinical and biomedical data.
 
 🔬 Currently serving as the **Head of Blockchain Research** at [Aquanow](https://www.aquanow.io/), demonstrating proficiency in spearheading technical blockchain R&D projects, managing partnerships, and directing strategic investments.
 
