@@ -12,7 +12,9 @@ redirect_from:
 
 ![](images/diagram.png)
 
-🚀 **Executive Director** of [TrainCheck.ai](https://www.traincheck.ai/), where I use Geometric Deep Learning to maximize the utility of clinical, surgical, and biomedical data..
+🚀 **Founder** of [Gen Z Strategy](https://www.genzstrategy.com/), where I share wealth generation and preservation strategies for Gen Z.
+
+🚀 **Executive Director** of [TrainCheck.ai](https://www.traincheck.ai/), where we help clinicians analyze data.
 
 🔬 Currently serving as the **Head of Blockchain Research** at [Aquanow](https://www.aquanow.io/), demonstrating proficiency in spearheading technical blockchain R&D projects, managing partnerships, and directing strategic investments.
 
