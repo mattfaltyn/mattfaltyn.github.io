@@ -12,13 +12,13 @@ redirect_from:
 
 ![](images/diagram.png)
 
-🚀 **Founder** of [Gen Z Strategy](https://www.genzstrategy.com/), where I share wealth generation and preservation strategies for Gen Z.
+💸 **Founder** of [Gen Z Strategy](https://www.genzstrategy.com/), where I share wealth generation and preservation strategies for Gen Z.
 
-🚀 **Executive Director** of [TrainCheck.ai](https://www.traincheck.ai/), where we help clinicians analyze data.
+🩺 **Executive Director** of [TrainCheck.ai](https://www.traincheck.ai/), where we help clinicians analyze data.
 
-🔬 Currently serving as the **Head of Blockchain Research** at [Aquanow](https://www.aquanow.io/), demonstrating proficiency in spearheading technical blockchain R&D projects, managing partnerships, and directing strategic investments.
+💼 Currently serving as the **Head of Blockchain Research** at [Aquanow](https://www.aquanow.io/), demonstrating proficiency in spearheading technical blockchain R&D projects, managing partnerships, and directing strategic investments.
 
-🎓 Actively pursuing a **PhD in Bioinformatics** in the distinguished [De Boer Lab](https://deboer.bme.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
+🧬 Actively pursuing a **PhD in Bioinformatics** in the distinguished [De Boer Lab](https://deboer.bme.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
 
 🛠️ A strong track record in **software development and testing**, demonstrated by the successful development and maintenance of software applications cumulatively valued at over $3 million USD.
 
