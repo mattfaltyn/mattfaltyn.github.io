@@ -21,8 +21,8 @@ main:
  # - title: "Courses"
  #   url: /courses/
     
- # - title: "MIT Challenge"
- #   url: /mit-challenge/
+  - title: "Good Reads"
+    url: /good-reads/
     
  #- title: "Guide"
  #  url: /markdown/
