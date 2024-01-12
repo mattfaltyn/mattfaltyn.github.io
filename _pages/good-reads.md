@@ -17,7 +17,8 @@ Texts I have read (or listened to) that I found interesting. I have attempted to
 
 1. [Adaptive Markets: Financial Evolution at the Speed of Thought by Andrew W. Lo (2019)](https://press.princeton.edu/books/paperback/9780691191362/adaptive-markets)
 2. [The Handbook of Evolutionary Psychology by David M. Buss (2015)](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470939376)
-3. [On the Origin of Species by Charles Darwin (1859)](https://www.gutenberg.org/files/1228/1228-h/1228-h.htm)
+3. [The Blind Watchmaker by Richard Dawkins (1986)](https://search.worldcat.org/title/11842129)
+4. [On the Origin of Species by Charles Darwin (1859)](https://www.gutenberg.org/files/1228/1228-h/1228-h.htm)
 
 ### Machine Learning
 
