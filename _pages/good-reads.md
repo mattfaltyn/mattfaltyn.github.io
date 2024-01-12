@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Good Reads
-
 Texts I have read (or listened to) that I found interesting. I have attempted to organize the texts by their primary discipline or field in revere (rough) chronological order of publication.  
 
 ## Non-Fiction
