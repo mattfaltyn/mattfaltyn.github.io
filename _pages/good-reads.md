@@ -23,7 +23,7 @@ Texts I have read (or listened to) that I found interesting. I have attempted to
 ### Machine Learning
 
 1. [Understanding Deep Learning by Simon J.D. Prince (2023)](https://udlbook.github.io/udlbook/)
-2. [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges by Michael M. Bronstein, Joan Bruna, Taco Cohen, and Petar Veličković (2022)](https://geometricdeeplearning.com/)
+2. [Geometric Deep Learning by Michael M. Bronstein, Joan Bruna, Taco Cohen, and Petar Veličković (2022)](https://geometricdeeplearning.com/)
 3. [Linear Algebra and Learning from Data by Gilbert Strang (2019)](https://math.mit.edu/~gs/learningfromdata/)
 4. [The Hundred-Page Machine Learning Book by Andriy Burkov (2019)](https://themlbook.com/)
 
