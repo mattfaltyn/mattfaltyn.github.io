@@ -12,7 +12,7 @@ redirect_from:
 
 ![](images/diagram.png)
 
-💸 **Founder** of [Gen Z Strategy](https://www.genzstrategy.com/), where I share wealth generation and preservation strategies for Gen Z.
+💸 Founder of Gen Z Strategy, where I help traders and investors utilize 21st-century wealth generation and preservation strategies.
 
 🩺 **Executive Director** of [TrainCheck.ai](https://www.traincheck.ai/), where we help clinicians analyze data.
 
