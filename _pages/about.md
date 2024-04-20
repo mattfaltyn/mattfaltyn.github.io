@@ -13,4 +13,4 @@ redirect_from:
 - Ex-Head of Blockchain Research @ Aquanow
 - Ex-PhD Researcher in Bioinformatics @ UBC
 - Applied Math MSc @ UBC
-- 14+ Publications, 2500+ Citations, $100k+ Research Awards 
+- 14+ Publications, 2500+ Citations, $250k+ Research Awards 
