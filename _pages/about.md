@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 - Managing Director @ Trilemma Capital
-- 7+ Years Experience in Machine Learning 
 - Ex-Head of Blockchain Research @ Aquanow
-- Ex-PhD Researcher in Brain Tumour Forecasting @ University of British Columbia
-- 2024 Vanier Scholar (Top 1% of PhD Students in Canada, Declined Award)
-- Applied Math MSc @ University of British Columbia
-- 14+ Publications, 2500+ Citations, $250k+ Research Awards
+- Ex-PhD Researcher in Brain Tumour Forecasting @ University of British Columbia (UBC)
+- 2024 Vanier Scholar, CIHR Doctoral Research Scholar, UBC Four Year Doctoral Fellow (Top 1% of PhD Students in Canada, Declined Awards) 
+- Applied Math MSc @ UBC
+- 14+ Publications, 2,500+ Citations, $350k+ Research Awards
+- 7+ Years Experience in Machine Learning
