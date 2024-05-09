@@ -14,4 +14,5 @@ redirect_from:
 - 2024 Vanier Scholar, CIHR Doctoral Research Scholar, UBC Four Year Doctoral Fellow (Top 1% of PhD Students in Canada, Declined Awards) 
 - Applied Math MSc @ UBC
 - 14+ Publications, 2,500+ Citations, $350k+ Research Awards
+- 13+ Technical Due Diligence Investment Calls @ AQN Digital
 - 7+ Years Experience in Machine Learning
