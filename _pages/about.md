@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Managing Director @ Trilemma Capital
+- Co-Founder & CTO @ Trilemma Capital
 - Ex-Head of Blockchain Research @ Aquanow
 - Ex-PhD Researcher in Brain Tumour Forecasting @ University of British Columbia (UBC)
 - 2024 Vanier Scholar, CIHR Doctoral Research Scholar, UBC Four Year Doctoral Fellow (Top 1% of PhD Students in Canada, Declined Awards) 
